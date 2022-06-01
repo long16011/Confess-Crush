@@ -10,11 +10,11 @@ const CONFIG = {
     desc: 'em không thích đi cùng anh hỏ ',
     btnYes: 'hokk <33',
     btnNo: '1 chút ngại :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao em khó chiều vậy? <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'vì em thích anh nên em mới ngại <33333333',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao em khó hẹn vậy? <3',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'vì em thích anh nên em mới ngại :3',
     mess: 'anh biết mà 🥰. cin cảm mơn 😘😘',
-    messDesc: 'Tuần sau anh qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messDesc: 'Vậy tuần sau anh qua đón đi chơi nha.',
+    btnAccept: 'Vâng ạ <3',
+    messLink: 'https://www.facebook.com/messages/t/100069042695737' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
